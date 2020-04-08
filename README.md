@@ -7,9 +7,9 @@
 ![](https://github.com/Deivid1071/GitHubShowdetails/blob/master/TelasAplicacao/teladedetalhes.png?raw=true)
 
 ### Funcionalidades
-* Adição de repositorios;
-* Listagem de perfis adicionados;
-* Detalhes de cada perfil e suas issues;
+* Adição de repositórios;
+* Listagem de repositórios adicionados;
+* Detalhes de cada repositório e suas issues;
 
 ### Techs utilizadas
 
