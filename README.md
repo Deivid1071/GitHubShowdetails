@@ -7,7 +7,7 @@
 ![](https://github.com/Deivid1071/GitHubShowdetails/blob/master/TelasAplicacao/teladedetalhes.png?raw=true)
 
 ### Funcionalidades
-* Adição de perfis github;
+* Adição de repositorios;
 * Listagem de perfis adicionados;
 * Detalhes de cada perfil e suas issues;
 
